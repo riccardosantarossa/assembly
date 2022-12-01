@@ -1,6 +1,7 @@
 
 .data
 
+@vettore di valori posti a 0
 vettore: .word 0,0,0,0 
 
 .text
