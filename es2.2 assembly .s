@@ -3,6 +3,8 @@
 .data
 
 vettore: .word 14,2,6
+
+@costante moltiplicativa
 const: .word 4
 
 .text
